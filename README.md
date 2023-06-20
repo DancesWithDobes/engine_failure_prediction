@@ -89,3 +89,12 @@ Final Test Metrics: This screenshot presents the evaluation metrics on the final
 
 ## Conclusion
 This Colab file provides a comprehensive implementation of a hybrid LSTM-CNN model for engine condition prediction. 
+
+
+
+
+
+
+
+
+
