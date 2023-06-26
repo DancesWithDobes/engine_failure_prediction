@@ -1,6 +1,10 @@
 # Engine Condition Prediction using Hybrid LSTM-CNN Model
 
 
+### Link to Colab notebook: 
+https://colab.research.google.com/drive/1aIWPkjZuAAAkMHSy-gTHJzrcQ93_top7?usp=sharing 
+
+
 This repository contains code for an engine condition prediction project using a hybrid LSTM-CNN model. The model is designed to predict the health condition of engines based on various input features. This documentation provides an overview of the code and its functionalities.
 
 
